@@ -1,6 +1,3 @@
 # simple-React-native-app
 
-![Alt Text](/AppScreenShort/01.jpg)
-![Alt Text](/AppScreenShort/02.jpg)
-![Alt Text](/AppScreenShort/03.jpg)
-![Alt Text](/AppScreenShort/04.jpg)
+<img src="/AppScreenShort/01.jpg" alt="Home page 1" width="300" height="640">
